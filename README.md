@@ -17,5 +17,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alifurkant&show_icons=true&locale=en" alt="alifurkant" /></p>
 
-![snake gif](https://github.com/alifurkant/alifurkant/blob/output/github-contribution-grid-snake.gif)
-
